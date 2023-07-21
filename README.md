@@ -1,3 +1,6 @@
+Gys don't matter this is forked from my online guider
+
+
 # Django Event Management System.
 
 ## How To Setup On Linux
